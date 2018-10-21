@@ -1,0 +1,11 @@
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/obj/Debug/netcoreapp2.1/create_table.csprojAssemblyReference.cache
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/obj/Debug/netcoreapp2.1/create_table.csproj.CoreCompileInputs.cache
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/obj/Debug/netcoreapp2.1/create_table.AssemblyInfoInputs.cache
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/obj/Debug/netcoreapp2.1/create_table.AssemblyInfo.cs
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/bin/Debug/netcoreapp2.1/create_table.deps.json
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/bin/Debug/netcoreapp2.1/create_table.runtimeconfig.json
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/bin/Debug/netcoreapp2.1/create_table.runtimeconfig.dev.json
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/bin/Debug/netcoreapp2.1/create_table.dll
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/bin/Debug/netcoreapp2.1/create_table.pdb
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/obj/Debug/netcoreapp2.1/create_table.dll
+/Users/danhoizner/git/fun_with_aws/dotnet/dynamodb/create_table/obj/Debug/netcoreapp2.1/create_table.pdb
